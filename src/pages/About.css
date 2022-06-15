@@ -21,8 +21,8 @@
   position: absolute;
   top: 50%;
   left: 50%;
-  transform: translate(-50%, -50%);
-  text-align: centers;
+  transform: translate(-51%, -46%);
+  text-align: center;
 }
 
 .name_title {
